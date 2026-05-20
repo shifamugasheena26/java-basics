@@ -19,7 +19,7 @@ public class MinMax {
                 min=arr[i];
             }
         }
-        System.out.println("Maximum = " + max);
-        System.out.println("Minimun = " + min);
+        System.out.println("Maximum : " + max);
+        System.out.println("Minimun : " + min);
     }
 }
