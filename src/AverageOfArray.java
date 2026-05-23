@@ -14,7 +14,7 @@ public class AverageOfArray {
         int average = 0;
 
         for(int i=0;i<arr.length;i++){
-            sum += arr[i];
+            sum = sum + arr[i];
         }
 
             average=sum/arr.length;
